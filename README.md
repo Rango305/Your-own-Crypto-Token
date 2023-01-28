@@ -2,7 +2,7 @@
 
 # Compiling
 
-Compile your contract by either pressing Save (CTRL + S on Windows, Command + S on Mac), or by going over to the Compiler tab in Remix, selecting LW3Token.sol, and hitting Compile.
+Compile your contract by either pressing Save (CTRL + S on Windows, Command + S on Mac), or by going over to the Compiler tab in Remix, selecting UpFightToken.sol, and hitting Compile.
 
 # Deploying
 
@@ -10,7 +10,7 @@ Head over to the Deployer tab in Remix.
 
 Select the Injected Provider - MetaMask environment (ensure you are on the Goerli Test Network), and connect your Metamask wallet.
 
-Select the LW3Token.sol contract, and enter values for the constructor arguments _name and _symbol.
+Select the UpFightToken.sol contract, and enter values for the constructor arguments _name and _symbol.
 
 When deployed, the contract should show up under the Deployed Contracts section. Click the Copy Address button to copy the contract address.
 
